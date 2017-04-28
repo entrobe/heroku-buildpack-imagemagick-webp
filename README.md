@@ -7,7 +7,7 @@ Since this buildpack is building libwebp and ImageMagick from source your first 
 
 ## Usage
 
-This buildpack is meant to be used through 
+This buildpack is meant to be used through
 [heroku-buildpack-multi](https://github.com/ddollar/heroku-buildpack-multi),
 so in your app you need to:
 ```
@@ -58,3 +58,5 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+and remember... have fun!
